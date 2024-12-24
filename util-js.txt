@@ -13,3 +13,4 @@ add-from login - 222
 555
 
 666本地库
+666-remote
